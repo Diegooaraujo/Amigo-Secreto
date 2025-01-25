@@ -1,5 +1,7 @@
 # Amigo Secreto
 
+![Imagem do Site](https://github.com/Diegooaraujo/Amigo-Secreto/blob/main/challenge/assets/Site-Sortear-Amigo.PNG)
+
 Este é um projeto simples para sortear amigos secretos. O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação.
 
 ## Estrutura do Projeto
